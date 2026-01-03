@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://github.com/TheKataki/TheKataki/blob/main/Screenshot%202026-01-02%20225346.png?raw=true"  />
 </div>
 
 ###
