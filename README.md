@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/TheKataki/TheKataki/blob/main/Screenshot%202026-01-02%20225346.png?raw=true"  />
+  <img src="https://github.com/TheKataki/TheKataki/blob/main/_b5100f68-ace9-4375-a56d-ccd39ccdd4ac_cropped%20(1)_upscayl_4x_upscayl-standard-4x.png?raw=true"  />
 </div>
 
 ###
